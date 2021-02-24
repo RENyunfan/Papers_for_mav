@@ -2,7 +2,7 @@
 
 # 1 无人机动力学
 
-[Minimum Snap Trajectory Generation and Control for Quadrotors)](./Papers/Dynamics/Minimum Snap Trajectory Generation and Control for Quadrotors.pdf)
+[Minimum Snap Trajectory Generation and Control for Quadrotors](./Papers/Dynamics/Minimum Snap Trajectory Generation and Control for Quadrotors.pdf)
 
 
 
